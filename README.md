@@ -113,7 +113,7 @@ credit-card-fraud-detection/
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.\
 ##Key Sections Explained:-
 1.Overview: A brief introduction to the project.
 2.Installation: Step-by-step instructions to set up the project.
