@@ -114,14 +114,14 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-Key Sections Explained:
-Overview: A brief introduction to the project.
-Installation: Step-by-step instructions to set up the project.
-Usage: Commands to run the project.
-Project Structure: A directory tree of the project to help users navigate the files.
-Methodology: Detailed description of each step in the data processing and modeling pipeline.
-Results: Summary of the model's performance.
-Future Work: Suggestions for future improvements.
-Contributing: Guidelines for contributing to the project.
-License: Information about the project's licens
+##Key Sections Explained:-
+1.Overview: A brief introduction to the project.
+2.Installation: Step-by-step instructions to set up the project.
+3.Usage: Commands to run the project.
+4.Project Structure: A directory tree of the project to help users navigate the files.
+6.Methodology: Detailed description of each step in the data processing and modeling pipeline.
+7.Results: Summary of the model's performance.
+8.Future Work: Suggestions for future improvements.
+9.Contributing: Guidelines for contributing to the project.
+10.License: Information about the project's license
 
