@@ -3,8 +3,8 @@ Capstone project on python data analysis
 # Credit Card Fraud Detection
 
 ## Overview
-This project aims to build a classification model to predict fraudulent credit card transactions. The dataset contains transactions made by European cardholders in September 2013, with 492 frauds out of 284,807 transactions. The primary challenge is the highly imbalanced nature of the dataset, with frauds accounting for only 0.172% of all transactions.
-
+This project aims to build a classification model to predict fraudulent credit card transactions. The dataset contains transactions made by European cardholders in September 2013, with 492 frauds out of 284,807 transactions. The primary challenge is the highly imbalanced nature of the dataset, with frauds accounting for only 0.172% of all transactions.\
+##load dataset link:-https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated%20Project%20guide%20data%20set/creditcard.csv
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
@@ -47,25 +47,25 @@ This project aims to build a classification model to predict fraudulent credit c
 2. The trained model will be saved as `credit_card_fraud_model.pkl`.
 
 ## Project Structure
-credit-card-fraud-detection/
-│
-├── data/
-│ └── creditcard.csv # Dataset file
-│
-├── notebooks/
-│ └── EDA.ipynb # Jupyter notebook for Exploratory Data Analysis
-│
-├── src/
-│ ├── data_preprocessing.py # Data cleaning and preprocessing functions
-│ ├── feature_engineering.py # Feature engineering functions
-│ ├── model_training.py # Model training and hyperparameter tuning
-│ ├── model_evaluation.py # Model evaluation and validation functions
-│ └── utils.py # Utility functions
-│
-├── main.py # Main script to run the entire pipeline
-├── requirements.txt # List of required Python packages
-├── README.md # README file
-└── LICENSE # License file
+credit-card-fraud-detection\
+│\
+├── data\
+│ └── creditcard.csv # Dataset file\
+│\
+├── notebooks\
+│ └── EDA.ipynb # Jupyter notebook for Exploratory Data Analysis\
+│\
+├── src\
+│ ├── data_preprocessing.py # Data cleaning and preprocessing functions\
+│ ├── feature_engineering.py # Feature engineering functions\
+│ ├── model_training.py # Model training and hyperparameter tuning\
+│ ├── model_evaluation.py # Model evaluation and validation functions\
+│ └── utils.py # Utility functions\
+│\
+├── main.py # Main script to run the entire pipeline\
+├── requirements.txt # List of required Python packages\
+├── README.md # README file\
+└── LICENSE # License file\
 
 ## Methodology
 
@@ -114,7 +114,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.\
-##Key Sections Explained:-\
+## Key Sections Explained:-\
 1.Overview: A brief introduction to the project.\
 2.Installation: Step-by-step instructions to set up the project.\
 3.Usage: Commands to run the project.\
