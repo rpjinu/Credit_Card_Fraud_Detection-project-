@@ -26,7 +26,7 @@ This project aims to build a classification model to predict fraudulent credit c
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rpjinu/credit-card-fraud-detection.git
+    git clone [https://github.com/rpjinu/credit-card-fraud-detection.git](https://github.com/rpjinu/Credit_Card_Fraud_Detection-project-.git)
     cd credit-card-fraud-detection
     ```
 2. Create and activate a virtual environment:
